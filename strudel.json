@@ -1,11 +1,11 @@
 {
-    "_base" : "https://raw.githubusercontent.com/nikeryms/samples/main/",
+    "_base" : "https://raw.githubusercontent.com/nikeryms/samples/refs/heads/main/",
     "vocals" : [
-        "vocals/djnike.wav",
-        "vocals/djnike1.wav",
-        "vocals/djnike2.m4a",
-        "vocals/djnike3.mp3",
-        "vocals/djnike4.wav"
+        "Vocals/djnike.wav",
+        "Vocals/djnike1.wav",
+        "Vocals/djnike2.m4a",
+        "Vocals/djnike3.mp3",
+        "Vocals/djnike4.wav"
         
     ]
 }
