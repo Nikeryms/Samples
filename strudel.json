@@ -2,6 +2,7 @@
     "_base" : "https://raw.githubusercontent.com/nikeryms/samples/main/",
     "vocals" : [
         "vocals/djnike.wav",
-        "vocals/djnike1.wav"
+        "vocals/djnike1.wav",
+        "vocals/djnike2.m4a"
     ]
 }
